@@ -2,7 +2,7 @@
    "data": [
 	{
 		"id": "0001",
-		"image": "https://s3-us-west-2.amazonaws.com/extra-crispy-media/assets/field%2Fimage%2Fdunkin-donuts-doughnut-hero-getty.jpg",
+		"image": "http://www.holeydonuts.net/images/donuts-main.png",
 		"type": "donut",
 		"name": "Cake",
 		"ppu": 0.55,
@@ -29,7 +29,7 @@
 	},
 	{
 		"id": "0002",
-		"image": "https://93546-d-c.ooyala.com/content/images/0895/200512_636x357_1461326845.jpg",
+		"image": "https://s-media-cache-ak0.pinimg.com/originals/a7/31/fd/a731fd06fc35c5368b1ac07a36d60803.jpg",
 		"type": "donut",
 		"name": "Raised",
 		"ppu": 0.55,
@@ -51,7 +51,7 @@
 	},
 	{
 		"id": "0003",
-		"image": "http://www.toronto.com/wp-content/uploads/2016/07/Best-Doughnuts-Toronto-Von-Doughnuts.jpg",
+		"image": "http://toriavey.com/images/2011/06/Doughnuts.jpg",
 		"type": "donut",
 		"name": "Old Fashioned",
 		"ppu": 0.55,
