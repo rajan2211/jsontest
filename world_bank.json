@@ -2,6 +2,7 @@
    "data": [
 	{
 		"id": "0001",
+		"image": "https://s3-us-west-2.amazonaws.com/extra-crispy-media/assets/field%2Fimage%2Fdunkin-donuts-doughnut-hero-getty.jpg",
 		"type": "donut",
 		"name": "Cake",
 		"ppu": 0.55,
@@ -28,6 +29,7 @@
 	},
 	{
 		"id": "0002",
+		"image": "https://93546-d-c.ooyala.com/content/images/0895/200512_636x357_1461326845.jpg",
 		"type": "donut",
 		"name": "Raised",
 		"ppu": 0.55,
@@ -49,6 +51,7 @@
 	},
 	{
 		"id": "0003",
+		"image": "http://www.toronto.com/wp-content/uploads/2016/07/Best-Doughnuts-Toronto-Von-Doughnuts.jpg",
 		"type": "donut",
 		"name": "Old Fashioned",
 		"ppu": 0.55,
